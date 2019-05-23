@@ -9,6 +9,18 @@ class Menu extends React.Component {
         <button>Pork Fried Rice</button>
         <button>Golden Fried Rice</button>
         <button>House Special Fried Rice</button>
+        <button>Beef Fried House</button>
+        <h1>Lo Mein</h1>
+        <button>Chicken Lo Mein</button>
+        <button>Pork Lo Mein</button>
+        <button>Beef Lo Mein</button>
+        <button>SeaFood Lo Mein</button>
+        <h1>Lunch Special</h1>
+        <button>Chicken and Broccoli</button>
+        <button>Salt and Pepper Pork Chop</button>
+        <button>Fried Chicken Wings</button>
+        <button>Singapore Mei Fun</button>
+        <button>Curry Chicken</button>
       </div>
     );
   }
