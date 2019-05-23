@@ -1,2 +1,0 @@
-# ChineseMenu
-Created with CodeSandbox
