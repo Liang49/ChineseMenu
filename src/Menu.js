@@ -5,7 +5,7 @@ class Menu extends React.Component {
     return (
       <div>
         <h1>Fried Rice</h1>
-        <button>Chicken Fried Rice</button>
+        <button onClick={this.handleClick}>Chicken Fried Rice</button>
         <button>Pork Fried Rice</button>
         <button>Golden Fried Rice</button>
         <button>House Special Fried Rice</button>
@@ -16,7 +16,7 @@ class Menu extends React.Component {
         <button>Beef Lo Mein</button>
         <button>SeaFood Lo Mein</button>
         <h1>Lunch Special</h1>
-        <button>Chicken and Broccoli</button>
+        <button onClick={this.props.handleClick}>Chicken and Broccoli</button>
         <button>Salt and Pepper Pork Chop</button>
         <button>Fried Chicken Wings</button>
         <button>Singapore Mei Fun</button>
